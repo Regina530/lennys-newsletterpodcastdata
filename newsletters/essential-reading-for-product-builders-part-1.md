@@ -3,8 +3,6 @@ title: "Essential reading for product builders—part 1"
 subtitle: "7 timeless essays you likely haven’t read but should"
 date: "2025-07-15"
 type: "newsletter"
-summary: "An overview of for something a little different, I’m going to share seven essays that have had the most impact on my product career—that you likely haven’t read, covering 2. [On agency](https://www.henrikkarlsson.xyz/p/agency?publication_id=313411&post_id=167633827&isFreemail=true&r=13nam&triedRedirect=true), by Henrik"
-tags: ["leadership", "design", "strategy", "newsletter", "startups", "career"]
 word_count: 2841
 ---
 

@@ -1,30 +1,24 @@
 # License
 
-## Lenny's Data Starter Pack
+## Lenny's Data
 
 Copyright (c) 2019–2026 Lenny Rachitsky. All rights reserved.
 
 ---
 
-This public starter repo is provided so anyone can evaluate the dataset structure and use a small sample with AI tools for personal use.
+## Starter dataset in this public repo
 
-### What you CAN do
+You may use the starter dataset in this public repo however you want.
 
-- **Clone this repo** and use the sample files locally
-- **Use it with AI tools** for personal learning, research, and hobby projects
-- **Build personal prototypes** on top of the sample dataset
-- **Share links to this repo** so others can evaluate the starter pack
+That includes copying it, remixing it, sharing it, publishing projects built with it, and using it in personal or commercial work.
 
-### What you CANNOT do
+The only thing you may not do is claim ownership of Lenny Rachitsky's original content.
 
-- **Rehost or resell the raw files** as a dataset, bundle, product, or paid resource
-- **Use the content commercially** in a paid product, service, or model offering
-- **Claim ownership** of the content or imply that it is public domain
-- **Use this starter repo to bypass paid access** to the full archive
+## Full paid archive
 
-### Full access
+The full archive available at [https://www.lennysdata.com](https://www.lennysdata.com) is covered by different terms.
 
-The full archive is reserved for paid annual subscribers and is available through [https://www.lennysdata.com](https://www.lennysdata.com).
+Paid subscribers may use the full archive for personal projects and may share those projects publicly. They may not redistribute the raw archive files, repost substantial portions of the raw content, or use the archive itself to make money.
 
 ### Questions?
 

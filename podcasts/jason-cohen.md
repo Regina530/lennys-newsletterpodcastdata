@@ -7,8 +7,6 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=8xLquwfx6p0"
 video_id: "8xLquwfx6p0"
 description: "Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market"
-summary: "A practical framework for when your product stops growing, covering growth systems, strategic decision-making, and startup building."
-tags: ["growth", "strategy", "startups", "design", "newsletter", "pricing"]
 word_count: 21523
 ---
 

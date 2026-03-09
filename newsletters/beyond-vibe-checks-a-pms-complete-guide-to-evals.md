@@ -3,8 +3,6 @@ title: "Beyond vibe checks: A PM’s complete guide to evals"
 subtitle: "How to master the emerging skill that can make or break an AI product"
 date: "2025-04-08"
 type: "newsletter"
-summary: "A practical guide to understanding what evals are, why they are so important, and mastering this emerging skill, covering Why evals matter, What exactly are evals?, and Getting started."
-tags: ["ai", "design", "engineering", "leadership", "organization", "analytics"]
 word_count: 3448
 ---
 

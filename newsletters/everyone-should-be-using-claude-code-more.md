@@ -3,8 +3,6 @@ title: "Everyone should be using Claude Code more"
 subtitle: "How to get started, and 50 ways non-technical people are using Claude Code in their work and life"
 date: "2025-10-14"
 type: "newsletter"
-summary: "An overview of ever since my chat with Dan Shipper, I couldn’t stop thinking about his hot take that Claude Code was the most underrated AI tool for non-technical people, covering 1. Clearing space on my computer, 2. Improving the image quality of screenshots, and 3. Downloading YouTube videos."
-tags: ["ai", "engineering", "design", "newsletter", "career", "leadership"]
 word_count: 3909
 ---
 

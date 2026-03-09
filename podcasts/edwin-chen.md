@@ -7,8 +7,6 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=dduQeaqmpnI"
 video_id: "dduQeaqmpnI"
 description: "Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good and bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed $1 billion in revenue with under 100 employees last year, completely bootstrapped—the fastest company in history to reach this milestone. Before founding Surge, Edwin was a research scientist at Google, Facebook, and Twitter and studied mathematics, computer science, and linguistics at MIT."
-summary: "A deep dive into The 100-person AI lab that became Anthropic and Google's secret weapon, covering product design, AI product work, and pricing decisions."
-tags: ["design", "ai", "pricing", "engineering", "startups", "leadership"]
 word_count: 14417
 ---
 

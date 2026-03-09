@@ -1,34 +1,30 @@
----
-title: "Lenny's Data"
----
-
 # Lenny's Data
 
-This repo is the public starter pack for Lenny's newsletter and podcast dataset.
+A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, organized for easy use with AI coding assistants and language models.
 
-It is meant to give you a clean, AI-friendly sample of the archive that you can clone directly from GitHub.
+This repo is the public starter pack with a limited number of transcripts and posts. Paid [Lenny's Newsletter](https://www.lennysnewsletter.com) subscribers can [get the full archive here, along with an MCP server and more](https://www.lennysdata.com).
 
 ## What is included
 
 - **10 newsletter posts** in `newsletters/`
 - **20 podcast transcripts** in `podcasts/`
-- **`index.json`** with summaries, tags, and word counts for every included file
-- **Markdown frontmatter** on every file with the same metadata fields
+- **`index.json`** with titles, subtitles, dates, guests, and word counts for every included file
+- **Markdown files** with lightweight frontmatter for each post or transcript
 
 ## Repo layout
 
 - `index.json`
 - `newsletters/`
 - `podcasts/`
-- `START-HERE.md`
 - `LICENSE.md`
 
-## How to use it
+## Quick Start
 
 1. Clone `github.com/lennysan/lennys-newsletterpodcastdata`.
-2. Read `index.json` first to filter by title, summary, tags, guest, or word count.
-
-This keeps AI context usage low and makes the archive easier to navigate programmatically.
+2. Open `index.json` and scan titles, subtitles, guests, and dates to decide what to open first.
+3. Ask Claude, Cursor, or another model to compare a few titles and suggest which files to read for your topic.
+4. Open one newsletter and one podcast transcript and start prompting against the markdown directly.
+5. If you want the full archive and MCP access, sign in at [https://www.lennysdata.com](https://www.lennysdata.com).
 
 ## Want the full dataset?
 

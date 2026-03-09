@@ -3,8 +3,6 @@ title: "How Duolingo reignited user growth"
 subtitle: "The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model"
 date: "2023-02-28"
 type: "newsletter"
-summary: "An overview of welcome to this month’s ✨ free edition✨ of Lenny’s Newsletter, covering Phase 1: Increasing gamification, Phase 2: Referrals, and Time to regroup."
-tags: ["growth", "leadership", "design", "newsletter", "strategy", "analytics"]
 word_count: 4718
 ---
 

@@ -3,8 +3,6 @@ title: "State of the product job market in 2025"
 subtitle: "There’s a lot to be optimistic about"
 date: "2025-05-13"
 type: "newsletter"
-summary: "An overview of last year, I did a two-part series on the state of the product job market (see part 1, part 2), where we found:, covering 2. AI roles are exploding, 3. Layoffs are slowing, and 4. Capital investment is increasing."
-tags: ["product-management", "newsletter", "ai", "career", "engineering", "strategy"]
 word_count: 1206
 ---
 
