@@ -20,7 +20,7 @@ This repo is the public starter pack with a limited number of transcripts and po
 
 ## Quick Start
 
-1. Clone `github.com/lennysan/lennys-newsletterpodcastdata`.
+1. Clone `github.com/LennysNewsletter/lennys-newsletterpodcastdata`.
 2. If you prefer a ZIP instead of cloning, sign in at [https://www.lennysdata.com](https://www.lennysdata.com) and download it there.
 3. If you want the full archive and MCP access, sign in at [https://www.lennysdata.com](https://www.lennysdata.com).
 
