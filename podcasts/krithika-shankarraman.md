@@ -6,7 +6,7 @@ guest: "Krithika Shankarraman"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=QaDsk4iH1aw"
 video_id: "QaDsk4iH1aw"
-description: "An overview of growth tactics from OpenAI and Stripe’s first marketer, covering strategic decision-making, AI product work, and B2B products."
+description: "Growth tactics from OpenAI and Stripe’s first marketer, covering strategic decision-making, AI product work, and B2B products."
 word_count: 14206
 ---
 

@@ -6,7 +6,7 @@ guest: "Garrett Lord"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0qdR-XwHJ9o"
 video_id: "0qdR-XwHJ9o"
-description: "An inside look at the expert network training every frontier AI model, covering AI product work, product design, and team leadership."
+description: "Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership."
 word_count: 12723
 ---
 

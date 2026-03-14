@@ -6,7 +6,7 @@ guest: "Ethan Smith"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
 video_id: "iT7kq-R3Gjc"
-description: "A practical guide to getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons."
+description: "Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons."
 word_count: 14213
 ---
 

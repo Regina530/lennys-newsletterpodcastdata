@@ -6,7 +6,7 @@ guest: "Mike Krieger"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=DKrBGOFs0GY"
 video_id: "DKrBGOFs0GY"
-description: "An overview of anthropic’s CPO on what comes next, covering AI product work, product design, and engineering tradeoffs."
+description: "Anthropic’s CPO on what comes next, covering AI product work, product design, and engineering tradeoffs."
 word_count: 13926
 ---
 

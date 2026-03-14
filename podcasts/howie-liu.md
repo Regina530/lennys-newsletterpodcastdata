@@ -6,7 +6,7 @@ guest: "Howie Liu"
 channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=GT0jtVjRy2E"
 video_id: "GT0jtVjRy2E"
-description: "An overview of how we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making."
+description: "How we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making."
 word_count: 17980
 ---
 

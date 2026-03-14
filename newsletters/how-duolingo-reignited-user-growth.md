@@ -3,7 +3,7 @@ title: "How Duolingo reignited user growth"
 subtitle: "The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model"
 date: "2023-02-28"
 type: "newsletter"
-word_count: 4718
+word_count: 4714
 ---
 
 *👋 Hey, [Lenny](https://twitter.com/lennysan) here! Welcome to this month’s ✨ **free edition**✨ of Lenny’s Newsletter. Each week I humbly tackle reader questions about product, growth, working with humans, and anything else that’s stressing you out about work.*
@@ -217,7 +217,7 @@ If you’re looking for a new gig, join the collective to get personalized oppor
 
 ### ❤️‍🔥 Featured job opportunities
 
-1. **Athena:** [Head of Growth](http://Head of Growth) (Remote)
+1. **Athena:** Head of Growth (Remote)
 2. **MetaMap:** [VP, Product](https://www.lennysjobs.com/jobs/74ca739b-4b51-4d55-8727-6606327fae58) (SF, Miami, Mexico City)
 
 **If you’re finding this newsletter valuable, share it with a friend, and consider subscribing if you haven’t already.**
