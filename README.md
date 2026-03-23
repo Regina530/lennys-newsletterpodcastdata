@@ -1,4 +1,3 @@
-## What is included
 
 - Free starter pack: **10 newsletter posts** and **50 podcast transcripts** in this public repo
 - Free subscribers can also connect to the starter MCP at [lennysdata.com](https://www.lennysdata.com)
