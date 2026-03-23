@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 - Free starter pack: **10 newsletter posts** and **50 podcast transcripts** in this public repo
 - Free subscribers can also connect to the starter MCP at [lennysdata.com](https://www.lennysdata.com)
@@ -5,6 +6,8 @@
 - All files are plain markdown and easy to use with Claude Code, Cursor, and other AI tools
 - `index.json` includes titles, dates, word counts, newsletter subtitles when available, and podcast guests/descriptions.
 
+=======
+>>>>>>> Stashed changes
 ## Repo layout
 
 - `index.json`
