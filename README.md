@@ -1,7 +1,3 @@
-A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, in AI-friendly markdown, to inspire you to build something with this unique dataset.
-
-This repo is the public starter pack with a limited number of transcripts and posts. To get the full archives, see below.
-
 ## What is included
 
 - Free starter pack: **10 newsletter posts** and **50 podcast transcripts** in this public repo
